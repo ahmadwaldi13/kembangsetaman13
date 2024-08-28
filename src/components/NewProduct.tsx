@@ -63,7 +63,7 @@ const NewProduct: React.FC<NewProductProps> = ({ initialProducts = [] }) => {
       }
     }
     fetchProducts()
-  }, [keyword, currentPage])
+  }, [keyword, currentPage, categoryParams, keywordParams])
 
   const handlePageChange = (page: number) => {
     setCurrentPage(page)

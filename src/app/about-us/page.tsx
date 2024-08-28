@@ -5,12 +5,12 @@ const AboutUs = () => {
     <div>
       <h1>About Us - KKN UMRI Mencerahkan Semesta</h1>
       <p>
-        Selamat datang di halaman "About Us" KKN Kelompok 5 dari Universitas
-        Muhammadiyah Riau. Kami adalah sekelompok mahasiswa yang bersemangat dan
-        berdedikasi menjalankan KKN (Kuliah Kerja Nyata) di Kelurahan Tirta
-        Siak, Kecamatan Payung Sekaki. Dengan mengusung tema "KKN UMRI
-        Mencerahkan Semesta," kami berkomitmen untuk memberikan dampak positif
-        bagi masyarakat di sekitar kami.
+        Selamat datang di halaman &quot;About Us&quot; KKN Kelompok 5 dari
+        Universitas Muhammadiyah Riau. Kami adalah sekelompok mahasiswa yang
+        bersemangat dan berdedikasi menjalankan KKN (Kuliah Kerja Nyata) di
+        Kelurahan Tirta Siak, Kecamatan Payung Sekaki. Dengan mengusung tema
+        &quot;KKN UMRI Mencerahkan Semesta,&quot; kami berkomitmen untuk
+        memberikan dampak positif bagi masyarakat di sekitar kami.
       </p>
 
       <br />

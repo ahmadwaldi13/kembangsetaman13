@@ -36,12 +36,12 @@ const MobNavbar = () => {
           {/* Menambahkan z-index untuk dropdown menu */}
           <ul className="flex flex-col space-y-4">
             <li>
-              <Link href="#about" className="text-lg navbar__link ">
+              <Link href="/about-us" className="text-lg navbar__link ">
                 About Us
               </Link>
             </li>
             <li>
-              <Link href="#services" className="text-lg navbar__link">
+              <Link href="/about-web" className="text-lg navbar__link">
                 About Web
               </Link>
             </li>
